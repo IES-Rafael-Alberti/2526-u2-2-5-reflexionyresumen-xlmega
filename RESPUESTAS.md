@@ -96,4 +96,4 @@ Enlaza aquí evidencias (capturas, logs, configuraciones, salidas de comandos, e
 
 
 ## 4) Conclusión (cierre)
-- 
+- Esta ha sido una Unidad con temas bastante importantes, pero siento que en la parte práctica nos hemos quedado atras haciendo ejercicios que no nos beneficiaban tanto como los de la Unidad anterior, espero que si sobra tiempo al final del curso podamos volver a revisar los puntos que hayamos mencionado la clase en general como más laxos para poder terminar lo más preparados posibles.
