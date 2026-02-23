@@ -118,14 +118,14 @@ Responde con **lenguaje técnico** y **argumentos** (no solo opiniones). Si proc
 Enlaza aquí evidencias (capturas, logs, configuraciones, salidas de comandos, etc.) si forman parte de tu trabajo.
 
 ### Evidencia 1
-- Archivo: `evidencias/01_...`
-- Qué demuestra:
-- Qué he aprendido:
+- Archivo: `evidencias/01_herramientas_osint.jpg`
+- Qué demuestra: Herramientas OSINT útiles en la práctica
+- Qué he aprendido: En OSINT se siente mucho la importancia de las herramienta por eso agradezco que dieces una carpeta con recursos para poder usar con los ejercicios.
 
 ### Evidencia 2
-- Archivo: `evidencias/02_...`
-- Qué demuestra:
-- Qué he aprendido:
+- Archivo: `evidencias/02_KISS.jpg`
+- Qué demuestra: El método Keep it Simple, Stupid
+- Qué he aprendido: Me parece importante sobre todo en un campo como el nuestro recordar siempre que sea posible esta regla, ya que muchos de nuestros informes son para gente que no esta metida en la informática.
 
 
 ## 4) Conclusión (cierre)
