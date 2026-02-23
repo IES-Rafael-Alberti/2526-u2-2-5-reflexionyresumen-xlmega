@@ -72,8 +72,13 @@ Responde con **lenguaje técnico** y **argumentos** (no solo opiniones). Si proc
 | **6. Resolución** | Atribución (si aplica) y generación de informe. | Línea temporal, Capturas con hash (SHA-256). |
 
 ### 2.4) Herramientas / técnicas (si aplica)
-- 
+- Detección: SIEM (Elastic, Splunk), IDS/IPS, EDR.
 
+- Investigación OSINT: Google Dorks, Whois, Shodan, Maltego, Wayback Machine.
+
+- Gestión de Incidentes: RTIR (Request Tracker for Incident Response), TheHive.
+
+- Análisis de Amenazas: MISP (Malware Information Sharing Platform), MITRE ATT&CK, VirusTotal.
 ### 2.5) Buenas prácticas y errores típicos
 - 
 
