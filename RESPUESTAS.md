@@ -20,16 +20,16 @@ Responde con **lenguaje técnico** y **argumentos** (no solo opiniones). Si proc
 - La verdad es que desconocia en general todo lo relacionado con esta asignatura, por lo que en esta es una de las que más aprendo al ser un terreno que tenia menos explorado.
 
 ### 1.4) ¿Qué concepto/idea te ha llamado más la atención y por qué?
-- 
+- La taxonomia en general, es interesante es esfuerzo que se realiza para clasificar los incidentes de manera que alguien con menos conocimiento de informatica pueda entender la situacion y dar informacion a veces clave para el incidente.
 
 ### 1.5) ¿Qué parte recortarías o simplificarías si hubiera menos tiempo? Justifica.
-- 
+- La implementacion del SIEM, aunque podria decirse que fue util siento que este tema deberia haberse dado en bastionado ya que se acerca más a su asignatura este tema.
 
 ### 1.6) ¿Qué tema has echado en falta o ampliarías? Justifica.
-- 
+- En vez de hacernos implementar un SIEM hubiera preferido que tener una ya montado y ver más casos de uso para este y sus implementaciones. Me parece que este es de cierta manero el punto más importante del SIEM ya que en este se daba su reglamento a la hora de vigilar el trafico, pero solo hemos podido ver su uso superficial.
 
 ### 1.7) ¿Qué aplicarías “mañana” en un entorno real con recursos limitados?
-- 
+- Dependera sobre todo del tipo de empleo que consiga, si estuviera más relacionado con la formación de los trabajadores les enseñaria las habilidades del OSINT, pero si estuviera más centrado en el bastionado de una red intentaria instalar un SIEM, aunque seguramente uno más facil de instalar.
 
 ### 1.8) ¿Qué duda, riesgo o punto crítico te queda abierto tras la unidad?
 - 
