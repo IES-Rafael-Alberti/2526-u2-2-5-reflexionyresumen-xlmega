@@ -60,7 +60,16 @@ Responde con **lenguaje técnico** y **argumentos** (no solo opiniones). Si proc
 - OSINT (Open Source Intelligence): Inteligencia derivada de la recopilación y análisis de datos públicos.
 
 ### 2.3) Procesos / procedimientos (pasos o checklist)
-- 
+- Ciclo de Investigación OSINT
+
+| Fase | Acción Técnica | Herramientas / Técnicas |
+| --- | --- | --- |
+| **1. OpSec** | Anonimización y creación de identidades sintéticas. | **Sock Puppets**, VPN, Navegadores aislados. |
+| **2. Recolección** | Obtención de datos públicos, históricos y metadatos. | **Google Dorks**, Wayback Machine, FOCA. |
+| **3. Infraestructura** | Mapeo de activos, servicios y puertos expuestos. | **Shodan**, Censys, WHOIS History. |
+| **4. Enriquecimiento** | Contraste de IoCs y validación de reputación. | **VirusTotal**, AlienVault, AbuseIPDB. |
+| **5. Correlación** | Vinculación de nodos y visualización de la red. | **Maltego**, SpiderFoot, Análisis de grafos. |
+| **6. Resolución** | Atribución (si aplica) y generación de informe. | Línea temporal, Capturas con hash (SHA-256). |
 
 ### 2.4) Herramientas / técnicas (si aplica)
 - 
