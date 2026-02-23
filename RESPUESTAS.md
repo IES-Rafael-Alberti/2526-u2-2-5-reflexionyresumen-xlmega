@@ -32,7 +32,7 @@ Responde con **lenguaje técnico** y **argumentos** (no solo opiniones). Si proc
 - Dependera sobre todo del tipo de empleo que consiga, si estuviera más relacionado con la formación de los trabajadores les enseñaria las habilidades del OSINT, pero si estuviera más centrado en el bastionado de una red intentaria instalar un SIEM, aunque seguramente uno más facil de instalar.
 
 ### 1.8) ¿Qué duda, riesgo o punto crítico te queda abierto tras la unidad?
-- 
+- Por lo comentado anteriormente el SIEM queda para mi como una unidad que hemos visto solo teoricamente, pero no hemos hecho ningun ejercicio practico que me parezca realmente útil para la práctica.
 
 
 ## 2) Resumen esquematizado (obligatorio)
