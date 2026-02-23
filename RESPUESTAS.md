@@ -11,13 +11,13 @@
 Responde con **lenguaje técnico** y **argumentos** (no solo opiniones). Si procede, usa ejemplos, riesgos y decisiones justificadas.
 
 ### 1.1) ¿Qué te han parecido los temas tratados en la unidad?
-- 
+- Me han parecido bastante interesantes, OSINT es una herramienta que la gente deberia conocer sus capacidades, ya que muchas veces no es consciente de cuantos datos suyos son públicos en internet. 
 
 ### 1.2) ¿Qué ha sido más útil para tu futuro puesto de trabajo? ¿Por qué?
-- 
+- Creo que lo más útil han sido las presentaciones, esto se debe a que te puedes formar de temas especificos por tu propia cuenta, pero es mucho más dificil la experiencia que te da todas las presentaciones que hemos hecho con la retroalimentación activa que hemos recibido.
 
 ### 1.3) ¿Qué partes ya conocías y cuáles han sido nuevas para ti?
-- 
+- La verdad es que desconocia en general todo lo relacionado con esta asignatura, por lo que en esta es una de las que más aprendo al ser un terreno que tenia menos explorado.
 
 ### 1.4) ¿Qué concepto/idea te ha llamado más la atención y por qué?
 - 
