@@ -89,7 +89,29 @@ Responde con **lenguaje técnico** y **argumentos** (no solo opiniones). Si proc
 - Error Típico: "Fatiga de alertas" por no ajustar correctamente los umbrales de los casos de uso.
 
 ### 2.6) Glosario mínimo (términos y definiciones cortas)
-- 
+- IoC (Indicador de Compromiso): Evidencia digital (hashes, IPs, dominios) que indica con alta probabilidad una intrusión.
+
+- SIEM: Sistema que centraliza, normaliza y correlaciona logs para detectar amenazas en tiempo real.
+
+- SOAR: Plataforma que orquesta herramientas de seguridad y automatiza respuestas mediante playbooks.
+
+- Playbook: Conjunto de pasos lógicos y acciones automatizadas para responder a un tipo de incidente específico.
+
+- Taxonomía: Sistema de clasificación jerárquica para estandarizar el nombre y tipo de los incidentes.
+
+- MTTR (Mean Time To Respond): Métrica que mide el tiempo medio desde que se detecta un incidente hasta que se resuelve.
+
+- Google Dorks: Consultas de búsqueda avanzada para encontrar información sensible expuesta en buscadores.
+
+- Sock Puppet: Identidad digital falsa creada para investigar amenazas sin revelar el origen de la investigación.
+
+- False Positive (Falso Positivo): Alerta de seguridad que se activa ante una actividad que resulta ser legítima.
+
+- Parsing / Normalización: Proceso de convertir logs de distintos formatos a un estándar común para que el SIEM los entienda.
+
+- TTP (Tácticas, Técnicas y Proc.): Descripción del comportamiento y métodos operativos de un actor de amenaza (estilo de ataque).
+
+- Dashboard: Interfaz visual que resume métricas y estados de seguridad mediante gráficos y tablas.
 
 
 ## 3) (Opcional) Evidencias y recursos usados
