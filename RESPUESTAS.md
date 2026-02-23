@@ -49,7 +49,15 @@ Responde con **lenguaje técnico** y **argumentos** (no solo opiniones). Si proc
 - Comunicación: Elaboración de informes técnicos de seguridad (2.5).
 
 ### 2.2) Conceptos clave (lista breve)
-- 
+- Taxonomía: Clasificación normalizada de incidentes para facilitar la comunicación y el análisis estadístico.
+
+- SIEM (Security Information and Event Management): Plataforma de centralización de logs y correlación de eventos en tiempo real.
+
+- SOAR (Security Orchestration, Automation and Response): Capa tecnológica que permite automatizar respuestas mediante playbooks.
+
+- Caso de Uso: Escenario específico de detección definido por fuentes, lógica y respuesta.
+
+- OSINT (Open Source Intelligence): Inteligencia derivada de la recopilación y análisis de datos públicos.
 
 ### 2.3) Procesos / procedimientos (pasos o checklist)
 - 
